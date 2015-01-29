@@ -1,0 +1,71 @@
+C:\Users\Ascensao\Desktop\Projectos Visual Studio\Las Vegas\Las Vegas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ascensao\Desktop\Projectos Visual Studio\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.frmMain.resources
+C:\Users\Ascensao\Desktop\Projectos Visual Studio\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.Properties.Resources.resources
+C:\Users\Ascensao\Desktop\Projectos Visual Studio\Las Vegas\Las Vegas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ascensao\Desktop\Projectos Visual Studio\Las Vegas\Las Vegas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ascensao\Desktop\Projectos Visual Studio\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.frmFile.resources
+C:\Users\Ascensao\Desktop\Projectos Visual Studio\Las Vegas\Las Vegas\bin\Debug\Las Vegas.exe
+C:\Users\Ascensao\Desktop\Projectos Visual Studio\Las Vegas\Las Vegas\bin\Debug\Las Vegas.pdb
+C:\Users\Ascensao\Desktop\Projectos Visual Studio\Las Vegas\Las Vegas\obj\x86\Debug\Las Vegas.exe
+C:\Users\Ascensao\Desktop\Projectos Visual Studio\Las Vegas\Las Vegas\obj\x86\Debug\Las Vegas.pdb
+M:\Las Vegas\Las Vegas\obj\x86\Debug\Las Vegas.exe
+M:\Las Vegas\Las Vegas\obj\x86\Debug\Las Vegas.pdb
+M:\Las Vegas\Las Vegas\bin\Debug\Las Vegas.exe
+M:\Las Vegas\Las Vegas\bin\Debug\Las Vegas.pdb
+M:\Las Vegas\Las Vegas\obj\x86\Debug\ResolveAssemblyReference.cache
+M:\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.frmFile.resources
+M:\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.frmMain.resources
+M:\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.Properties.Resources.resources
+M:\Las Vegas\Las Vegas\obj\x86\Debug\GenerateResource.read.1.tlog
+M:\Las Vegas\Las Vegas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Luis\Ambiente de trabalho\Las Vegas\Las Vegas\obj\x86\Debug\Las Vegas.exe
+C:\Documents and Settings\Luis\Ambiente de trabalho\Las Vegas\Las Vegas\obj\x86\Debug\Las Vegas.pdb
+C:\Documents and Settings\Luis\Ambiente de trabalho\Las Vegas\Las Vegas\bin\Debug\Las Vegas.exe
+C:\Documents and Settings\Luis\Ambiente de trabalho\Las Vegas\Las Vegas\bin\Debug\Las Vegas.pdb
+C:\Documents and Settings\Luis\Ambiente de trabalho\Las Vegas\Las Vegas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Luis\Ambiente de trabalho\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.frmFile.resources
+C:\Documents and Settings\Luis\Ambiente de trabalho\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.frmMain.resources
+C:\Documents and Settings\Luis\Ambiente de trabalho\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.Properties.Resources.resources
+C:\Documents and Settings\Luis\Ambiente de trabalho\Las Vegas\Las Vegas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Luis\Ambiente de trabalho\Las Vegas\Las Vegas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ascensao\Desktop\Las Vegas\Las Vegas\obj\x86\Debug\Las Vegas.exe
+C:\Users\Ascensao\Desktop\Las Vegas\Las Vegas\obj\x86\Debug\Las Vegas.pdb
+C:\Users\Ascensao\Desktop\Las Vegas\Las Vegas\bin\Debug\Las Vegas.exe
+C:\Users\Ascensao\Desktop\Las Vegas\Las Vegas\bin\Debug\Las Vegas.pdb
+C:\Users\Ascensao\Desktop\Las Vegas\Las Vegas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ascensao\Desktop\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.frmMain.resources
+C:\Users\Ascensao\Desktop\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.Properties.Resources.resources
+C:\Users\Ascensao\Desktop\Las Vegas\Las Vegas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ascensao\Desktop\Las Vegas\Las Vegas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ascensao\Desktop\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.frmAboutBox.resources
+C:\Users\Ascensao\Desktop\Projecto Las Vegas\Las Vegas\Las Vegas\obj\x86\Debug\Las Vegas.exe
+C:\Users\Ascensao\Desktop\Projecto Las Vegas\Las Vegas\Las Vegas\obj\x86\Debug\Las Vegas.pdb
+C:\Users\Ascensao\Desktop\Projecto Las Vegas\Las Vegas\Las Vegas\bin\Debug\Las Vegas.exe
+C:\Users\Ascensao\Desktop\Projecto Las Vegas\Las Vegas\Las Vegas\bin\Debug\Las Vegas.pdb
+C:\Users\Ascensao\Desktop\Projecto Las Vegas\Las Vegas\Las Vegas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ascensao\Desktop\Projecto Las Vegas\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.frmAboutBox.resources
+C:\Users\Ascensao\Desktop\Projecto Las Vegas\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.frmMain.resources
+C:\Users\Ascensao\Desktop\Projecto Las Vegas\Las Vegas\Las Vegas\obj\x86\Debug\Las_Vegas.Properties.Resources.resources
+C:\Users\Ascensao\Desktop\Projecto Las Vegas\Las Vegas\Las Vegas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ascensao\Desktop\Projecto Las Vegas\Las Vegas\Las Vegas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Ascensao\Desktop\Dropbox\Trabalho\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las Vegas.exe
+C:\Users\Ascensao\Desktop\Dropbox\Trabalho\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las Vegas.pdb
+C:\Users\Ascensao\Desktop\Dropbox\Trabalho\Las Vegas\Versões\V.1.1\Las Vegas\bin\Debug\Las Vegas.exe
+C:\Users\Ascensao\Desktop\Dropbox\Trabalho\Las Vegas\Versões\V.1.1\Las Vegas\bin\Debug\Las Vegas.pdb
+C:\Users\Ascensao\Desktop\Dropbox\Trabalho\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ascensao\Desktop\Dropbox\Trabalho\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las_Vegas.frmAboutBox.resources
+C:\Users\Ascensao\Desktop\Dropbox\Trabalho\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las_Vegas.frmMain.resources
+C:\Users\Ascensao\Desktop\Dropbox\Trabalho\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las_Vegas.Properties.Resources.resources
+C:\Users\Ascensao\Desktop\Dropbox\Trabalho\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ascensao\Desktop\Dropbox\Trabalho\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bernardo\Dropbox\Trabalho\PROGRAMAÇÃO\Aplicações\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las Vegas.exe
+C:\Users\Bernardo\Dropbox\Trabalho\PROGRAMAÇÃO\Aplicações\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las Vegas.pdb
+C:\Users\Bernardo\Dropbox\Trabalho\PROGRAMAÇÃO\Aplicações\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las Vegas.csprojResolveAssemblyReference.cache
+C:\Users\Bernardo\Dropbox\Trabalho\PROGRAMAÇÃO\Aplicações\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las_Vegas.frmAboutBox.resources
+C:\Users\Bernardo\Dropbox\Trabalho\PROGRAMAÇÃO\Aplicações\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las_Vegas.frmMain.resources
+C:\Users\Bernardo\Dropbox\Trabalho\PROGRAMAÇÃO\Aplicações\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las Vegas.csproj.GenerateResource.Cache
+C:\Users\Bernardo\Dropbox\Trabalho\PROGRAMAÇÃO\Aplicações\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las_Vegas.Properties.Resources.resources
+C:\Users\Bernardo\Dropbox\Trabalho\PROGRAMAÇÃO\Aplicações\Las Vegas\Versões\V.1.1\Las Vegas\bin\Debug\Las Vegas.exe
+C:\Users\Bernardo\Dropbox\Trabalho\PROGRAMAÇÃO\Aplicações\Las Vegas\Versões\V.1.1\Las Vegas\bin\Debug\Las Vegas.pdb
+C:\Users\Bernardo\Dropbox\Trabalho\C# Programming\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las Vegas.exe
+C:\Users\Bernardo\Dropbox\Trabalho\C# Programming\Las Vegas\Versões\V.1.1\Las Vegas\obj\x86\Debug\Las Vegas.pdb
